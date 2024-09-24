@@ -10,4 +10,4 @@ As principais etapas do projeto incluem:
 3. Análise das métricas de locação, incluindo duração média dos filmes, taxa de locação e custo de reposição.
 4. Geração de funções reutilizáveis para facilitar futuras consultas e transformações de dados.
 
-O projeto busca fornecer uma visão detalhada do comportamento das locações, explorando o impacto de diferentes categorias de filmes e a performance financeira da locadora. Essa abordagem permite automatizar a extração de dados e transformá-los em informações valiosas para a tomada de decisões estratégicas.
+O projeto busca fornecer uma visão detalhada do comportamento das locações, explorando o impacto de diferentes categorias de filmes e a performance financeira da locadora.
