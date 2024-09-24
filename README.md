@@ -5,8 +5,9 @@ Este projeto tem como objetivo analisar dados de locação de DVDs utilizando co
 
 As principais etapas do projeto incluem:
 
-Conexão ao banco de dados PostgreSQL e execução de consultas SQL para extrair dados relevantes.
-Transformação e limpeza dos dados utilizando a biblioteca pandas, garantindo a qualidade dos dados para análise.
-Análise das métricas de locação, incluindo duração média dos filmes, taxa de locação e custo de reposição.
-Geração de funções reutilizáveis para facilitar futuras consultas e transformações de dados.
+1. Conexão ao banco de dados PostgreSQL e execução de consultas SQL para extrair dados relevantes.
+2. Transformação e limpeza dos dados utilizando a biblioteca pandas, garantindo a qualidade dos dados para análise.
+3. Análise das métricas de locação, incluindo duração média dos filmes, taxa de locação e custo de reposição.
+4. Geração de funções reutilizáveis para facilitar futuras consultas e transformações de dados.
+
 O projeto busca fornecer uma visão detalhada do comportamento das locações, explorando o impacto de diferentes categorias de filmes e a performance financeira da locadora. Essa abordagem permite automatizar a extração de dados e transformá-los em informações valiosas para a tomada de decisões estratégicas.
