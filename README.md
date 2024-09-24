@@ -1,4 +1,4 @@
-# Analise DVD rentals com SQL integrada em Python
+# Analise de locação de DVDs usando SQL integrada ao Python
 Projeto de Consultas SQL integradas com Python
 
 Este projeto tem como objetivo analisar dados de locação de DVDs utilizando consultas SQL integradas com Python, aproveitando a biblioteca psycopg2 para se conectar ao banco de dados PostgreSQL. Através dessa análise, exploramos o banco de dados dvdrental, um repositório de dados fictício com informações sobre filmes, categorias, locações e clientes, permitindo a criação de relatórios e insights úteis sobre o comportamento de locação e o desempenho financeiro da locadora.
